@@ -1,0 +1,29 @@
+# Environment
+venv/
+env/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Data files
+data/raw/
+
+# Models
+models/*.h5
+models/*.pkl
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS specific
+.DS_Store
